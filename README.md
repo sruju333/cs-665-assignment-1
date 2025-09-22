@@ -14,7 +14,7 @@ The system allows the user to customize their drinks with condiments (milk and s
 The objective was to apply **core Object-Oriented Programming concepts** such as abstraction, inheritance, encapsulation, polymorphism, and interfaces to design a flexible and maintainable solution. Per the assignment instructions, **no design patterns** were used.
 
 # GitHub Repository Link:
-https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}
+https://github.com/sruju333/cs-665-assignment-1
 
 # Implementation Description 
 
